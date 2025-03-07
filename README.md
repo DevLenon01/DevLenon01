@@ -3,7 +3,7 @@
 - Tenho 22 anos.
 - Atualmente trabalhando como desenvolvedor de sistemas com foco no front-end.
 - Trabalho com HTML | CSS | JavaScript | TypeScript | ReactJS.
-- Estou cursando Bacharel em Sistemas de Informação (6/7).
+- Estou cursando Bacharel em Sistemas de Informação (6/7)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevLenon01&show_icons=true&theme=radical) <br>
 
