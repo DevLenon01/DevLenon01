@@ -1,7 +1,7 @@
 ## Olá, sou Kaio Lenon Carvalho , Desenvolvedor Front-End!
 
 - Tenho 22 anos.
-- Atualmente trabalhando como desenvolvedor de sistemas com foco no front-end.
+- Atualmente trabalhando como desenvolvedor de sistemas com foco no front-end e automações de sistemas.
 - Trabalho com HTML | CSS | JavaScript | TypeScript | ReactJS.
 - Estou cursando Bacharel em Sistemas de Informação (6/7).
 
